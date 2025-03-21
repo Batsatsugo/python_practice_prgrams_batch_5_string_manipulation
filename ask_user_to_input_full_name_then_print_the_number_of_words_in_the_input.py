@@ -1,4 +1,4 @@
-# DECLARE full_name, word_counter
+# DECLARE full_name, character_counter
 # INPUT full_name
-# INPUT word_counter
+# INPUT character_counter
 # PRINT 
